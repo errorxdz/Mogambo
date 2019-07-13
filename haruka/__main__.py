@@ -20,22 +20,21 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, my name is {}!
+PM_START = """Hello {}, I am MOGAMBO {}!
 
-I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless. Dread it. Run from it.
-Destiny still arrives. Or should I say, I have.
+Mogambo ko yaad kiya !! , MOGAMBO KHUSH HUA :-)
 
-I'm world manager bot maintained by [this awesome person](https://t.me/shivamkchoudhary)!
+I'm world manager bot maintained by [this noob](https://t.me/arnab_xd)!
 
 Click Help button to find out more about how to use me to my full potential.
 
-Special Thanks to @Prakaska sar
+Special Thanks to @shivamkchoudhary sir and //HARUKA AYA//.
 
-My Souce Available Here [Source](https://github.com/shivamkchoudhary/HarukaAya)
+My Souce Available Here [Source](https://github.com/errorxdz/Mogambo)
 
-Want to add me to your group? [Click here!](t.me/ThaNos_TheBot?startgroup=true)
+Want to add me to your group? [Click here!](t.me/mgmbo_bot?startgroup=true)
 
-Earth. That is my price.!"""
+Keep Mogambo Happy by Adding to Your Group!"""
 
 
 IMPORTED = {}
